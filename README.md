@@ -1,14 +1,17 @@
 # FastAPI Store Manager
 
-FastAPI Store Manager is a powerful and scalable API for managing a product store. Built with FastAPI and SQLAlchemy, this API allows you to efficiently handle products, categories, and orders with ease. Whether you are building a small shop or a large-scale marketplace, FastAPI Store Manager provides the robust foundation you need.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![SQLModel](https://img.shields.io/badge/SQLModel-1F425F?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://sqlmodel.tiangolo.com/)
+
+FastAPI Store Manager is a powerful and scalable API for managing a product store. Built with FastAPI and SQLModel, this API allows you to efficiently handle products, categories. Whether you are building a small shop or a large-scale marketplace, FastAPI Store Manager provides the robust foundation you need.
 
 ## Features
 
 - **Product Management**: Add, update, delete, and retrieve product details.
 - **Category Management**: Organize products into categories for better navigation.
-- **Order Processing**: Handle customer orders and manage order statuses.
-- **Authentication and Authorization**: Secure endpoints with JWT-based authentication.
-- **Database Integration**: Utilize SQLAlchemy for seamless database operations.
+- **Database Integration**: Utilize SQLModel for seamless database operations.
 - **Extensible**: Easily extend and customize the API to fit your specific needs.
 
 ## Getting Started
